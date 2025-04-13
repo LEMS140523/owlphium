@@ -1,34 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Owlphium - Hooting Wisdom into Alephium (א)</title>
   <link rel="canonical" href="https://owlphium.com">
   <meta name="description" content="Owlphium is a meme token built on Alephium. Learn about its lore, roadmap, tokenomics and more. Join the owl revolution.">
   <meta name="keywords" content="Owlphium, OWLP, Alephium, meme coin, crypto, Cluckmaster, decentralized, roadmap, tokenomics">
   <meta name="author" content="Coinfartz">
   <meta property="og:title" content="Owlphium - Hooting Wisdom into Alephium (א)">
   <meta property="og:description" content="Explore Owlphium, a meme token on Alephium with unique lore, roadmap and a growing community.">
-  <meta property="og:image" content="https://i.imgur.com/4f20cTy.png">
+  <meta property="og:image" content="https://owlphium.com/Owlphium_OpenGraph.webp">
   <meta property="og:url" content="https://owlphium.com">
   <meta name="twitter:card" content="summary_large_image">
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Owlphium - Hooting Wisdom into Alephium (א)</title>
-  <link rel="icon" type="image/png" href="https://i.imgur.com/4f20cTy.png">
+  <link rel="icon" type="image/webp" href="/favicon.webp">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/js/all.min.js" crossorigin="anonymous"></script>
+  <style>
+    @media (max-width: 768px) {
+      .mobile-nav {
+        display: grid;
+        grid-template-columns: repeat(3, auto);
+        justify-content: center;
+        gap: 0.75rem;
+        text-align: center;
+      }
+    }
+  </style>
 </head>
 <body class="bg-gray-900 text-white font-sans">
 
 <!-- Navbar -->
 <nav class="bg-gray-800 px-6 py-4">
-  <div class="flex items-center justify-between">
-    <!-- Logo eliminado -->
-    <button class="md:hidden focus:outline-none" onclick="toggleMenu()" aria-label="Toggle menu">
-      <i class="fas fa-bars text-white text-2xl" aria-hidden="true"></i>
-    </button>
-  </div>
-  <div id="mobileMenu" class="hidden transition-all duration-300 flex-col md:flex md:flex-row md:justify-center md:items-center space-y-2 md:space-y-0 md:space-x-4 mt-4 md:mt-0 text-center">
+  <div class="flex flex-wrap justify-center gap-4 md:flex-row mobile-nav">
     <a href="#lore" class="hover:text-yellow-400">Lore</a>
+    <a href="#vision" class="hover:text-yellow-400">Vision</a>
     <a href="#roadmap" class="hover:text-yellow-400">Roadmap</a>
     <a href="#tokenomics" class="hover:text-yellow-400">Tokenomics</a>
     <a href="#creator" class="hover:text-yellow-400">Creator</a>
@@ -36,31 +43,18 @@
   </div>
 </nav>
 
-<script>
-  function toggleMenu() {
-    const menu = document.getElementById('mobileMenu');
-    menu.classList.toggle('hidden');
-  }
-</script>
-
-<!-- Hero Section -->
+<!-- Hero -->
 <section class="text-center py-20 px-6 bg-gradient-to-b from-gray-900 to-gray-800">
   <h1 class="text-2xl md:text-4xl font-extrabold mb-6">Owlphium - Hooting wisdom into Alephium (א)</h1>
-  <img src="https://i.imgur.com/axOYAa1.png" alt="Hero Owl Icon" class="mx-auto w-48 sm:w-56 h-auto mb-6">
+  <img src="/hero_owl_couple.webp" alt="Owlphium Hero Owl Icon" class="mx-auto w-48 sm:w-56 h-auto mb-6">
   <div class="flex flex-col sm:flex-row justify-center gap-4">
-    <a href="https://myonion.fun/trade?tokenId=8a674cbf53bed652403a5fbd92da127f0f4a122da7d366152519fc1ce5bd0f00"
-       target="_blank"
-       class="bg-yellow-400 text-black px-6 py-3 rounded-xl font-bold hover:bg-yellow-300">
-       Buy $OWLP
-    </a>
-    <a href="Owlphium%20-%20Whitepaper.pdf" target="_blank" class="bg-yellow-400 text-black px-6 py-3 rounded-xl font-bold hover:bg-yellow-300">
-       Whitepaper
-    </a>
+    <a href="https://myonion.fun/trade?tokenId=..." target="_blank" class="bg-yellow-400 text-black px-6 py-3 rounded-xl font-bold hover:bg-yellow-300">Buy $OWLP</a>
+    <a href="owlphium_whitepaper_en.pdf" target="_blank" class="bg-yellow-400 text-black px-6 py-3 rounded-xl font-bold hover:bg-yellow-300">Whitepaper</a>
   </div>
 </section>
 
-<!-- Lore Section -->
-<section id="lore" class="py-16 px-6 text-justify text-center md:flex md:flex-col md:items-center">
+<!-- Lore -->
+<section id="lore" class="py-16 px-6 bg-gray-900 text-justify text-center md:flex md:flex-col md:items-center">
   <h2 class="text-3xl font-bold mb-6 text-center">🧬 Lore</h2>
   <div class="max-w-3xl mx-auto">
     <p>Owlphium is a humanoid owl from the planet <strong>Noctavium</strong>, located in the <strong>GX Andromedae</strong> system, just 10 light years from Earth. His civilization, 400 years ahead in tech, lives in harmony with nature, dwelling in massive living trees and practicing quantum-code rituals.</p>
@@ -69,9 +63,20 @@
   </div>
 </section>
 
-<!-- Roadmap Section -->
-<section id="roadmap" class="py-16 px-6 bg-gray-800 text-justify text-center md:flex md:flex-col md:items-center">
-  <h2 class="text-3xl font-bold mb-6">🚀 Roadmap</h2>
+<!-- Vision -->
+<section id="vision" class="py-16 px-6 bg-gray-800 text-justify text-center md:flex md:flex-col md:items-center">
+  <h2 class="text-3xl font-bold mb-6 text-center">🔮 Vision</h2>
+  <div class="max-w-3xl mx-auto">
+    <p>At Owlphium, we believe that wisdom and decentralization go wing in wing.</p>
+    <p class="mt-4">This meme coin is more than just crypto fun — it's a tribute to <strong>all owls on Earth</strong> 🦉, magnificent guardians of the night skies. Through creativity, community, and blockchain innovation, we aim to <strong>build awareness</strong> and <strong>support conservation efforts</strong> for endangered owl species across the globe.</p>
+    <p class="mt-4">We envision a future where memes inspire action, where holders become guardians, and where every $OWLP brings us closer to a world where owls can thrive — not just in lore, but in real life.</p>
+    <p class="mt-4">Together, let’s fly higher — for the owls, for the chain, for the culture.</p>
+  </div>
+</section>
+
+<!-- Roadmap -->
+<section id="roadmap" class="py-16 px-6 bg-gray-900 text-justify text-center md:flex md:flex-col md:items-center">
+  <h2 class="text-3xl font-bold mb-6 text-center">🚀 Roadmap</h2>
   <div class="max-w-4xl mx-auto space-y-8">
     <div>
       <h3 class="text-xl font-semibold text-yellow-400 mb-2">🪺 Phase 1: Hatching</h3>
@@ -95,14 +100,13 @@
         <li>Influencer partnerships on X</li>
         <li>First $1000 donation to an owl sanctuary</li>
         <li>First CEX listing</li>
-        <li>More to come!</li>
       </ul>
     </div>
   </div>
 </section>
 
-<!-- Tokenomics Section -->
-<section id="tokenomics" class="py-16 px-6 text-justify text-center md:flex md:flex-col md:items-center">
+<!-- Tokenomics -->
+<section id="tokenomics" class="py-16 px-6 bg-gray-800 text-justify text-center md:flex md:flex-col md:items-center">
   <h2 class="text-3xl font-bold mb-6 text-center">💰 Tokenomics</h2>
   <div class="max-w-3xl mx-auto">
     <p><strong>Total Supply:</strong> 1,000,000,000 $OWLP</p>
@@ -111,25 +115,29 @@
   </div>
 </section>
 
-<!-- Creator Section -->
-<section id="creator" class="py-16 px-6 bg-gray-800 text-justify text-center md:flex md:flex-col md:items-center">
+<!-- Creator -->
+<section id="creator" class="py-16 px-6 bg-gray-900 text-justify text-center md:flex md:flex-col md:items-center">
   <h2 class="text-3xl font-bold mb-8 text-center">👤 About the Creator</h2>
-  <img src="https://i.imgur.com/6bLpb8U.png" alt="Coinfartz" class="mx-auto w-40 h-40 rounded-full mb-6">
-  <p class="max-w-3xl mx-auto">
-    Created by <a href="https://x.com/coinfartz" target="_blank" class="text-yellow-400 hover:underline font-semibold">Coinfartz</a>, a blockchain explorer, creative builder, and firm believer in decentralization. Passionate about Owlphium, Alephium, Web3 culture, and memes with soul.
-  </p>
+  <img src="/creator_avatar.webp" alt="Coinfartz Avatar" class="mx-auto w-40 h-40 rounded-full mb-6">
+  <div class="max-w-3xl mx-auto space-y-4">
+    <p>Owlphium was crafted by a builder who believes that memes can carry wisdom, and blockchains can carry meaning.</p>
+    <p>As the creator of this project, he is driven by a vision: to merge crypto culture with storytelling, humor with purpose, and decentralization with creativity.</p>
+    <p>His mission isn't just to launch a meme coin. It's to build a movement, spark curiosity, and prove that even the most whimsical ideas can hold deep meaning when rooted in authenticity and community.</p>
+    <p>Owlphium is the result of that belief — a coin born from hoots, humor, and the hope that crypto can be something more than speculation.</p>
+    <p>Follow the creator on <a href="https://x.com/coinfartz" target="_blank" class="text-yellow-400 hover:underline font-semibold">X</a> and join the flight.</p>
+  </div>
 </section>
 
-<!-- Community Section -->
-<section id="community" class="py-16 px-6 text-center md:flex md:flex-col md:items-center">
+<!-- Community -->
+<section id="community" class="py-16 px-6 bg-gray-800 text-center md:flex md:flex-col md:items-center">
   <h2 class="text-3xl font-bold mb-4 text-center">🌐 Community</h2>
   <p class="max-w-3xl mx-auto mb-6">Follow us on X, join the flock on Telegram, and be part of the lore.</p>
   <div class="flex justify-center space-x-6">
     <a href="https://x.com/owlphium" target="_blank" class="bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg flex items-center gap-2">
-      <i class="fab fa-x-twitter" aria-hidden="true"></i>
+      <i class="fab fa-x-twitter"></i>
     </a>
     <a href="https://t.me/owlphium" target="_blank" class="bg-blue-400 hover:bg-blue-500 text-white font-semibold py-2 px-4 rounded-lg flex items-center gap-2">
-      <i class="fab fa-telegram" aria-hidden="true"></i>
+      <i class="fab fa-telegram"></i>
     </a>
   </div>
 </section>
@@ -137,6 +145,7 @@
 <!-- Footer -->
 <footer class="text-center py-6 bg-gray-900 text-gray-400">
   <p>&copy; 2025 Owlphium. All rights reserved.</p>
+  <p class="text-xs mt-2">The purchase of $OWLP coin does not constitute a promise of financial returns. Please DYOR.</p>
 </footer>
 
 </body>
