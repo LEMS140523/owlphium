@@ -1,0 +1,31 @@
+{
+  "name": "OWLP141",
+  "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
+  "external_url": "",
+  "image": "owlp141.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Universe"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body3"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head4"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "owlp141.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "compiler": "NFTexport.io"
+}
