@@ -5,8 +5,8 @@
     {
       "name": "OWLP1",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp1.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp1.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -24,20 +24,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp1.png",
+            "uri": "https://owlphium.com/collection/general/owlp1.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP2",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp2.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp2.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -55,20 +60,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp2.png",
+            "uri": "https://owlphium.com/collection/general/owlp2.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP3",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp3.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp3.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -86,20 +96,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp3.png",
+            "uri": "https://owlphium.com/collection/general/owlp3.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP4",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp4.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp4.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -117,20 +132,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp4.png",
+            "uri": "https://owlphium.com/collection/general/owlp4.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP5",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp5.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp5.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -148,20 +168,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp5.png",
+            "uri": "https://owlphium.com/collection/general/owlp5.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP6",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp6.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp6.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -179,20 +204,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp6.png",
+            "uri": "https://owlphium.com/collection/general/owlp6.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP7",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp7.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp7.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -210,20 +240,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp7.png",
+            "uri": "https://owlphium.com/collection/general/owlp7.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP8",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp8.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp8.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -241,20 +276,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp8.png",
+            "uri": "https://owlphium.com/collection/general/owlp8.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP9",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp9.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp9.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -272,20 +312,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp9.png",
+            "uri": "https://owlphium.com/collection/general/owlp9.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP10",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp10.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp10.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -303,20 +348,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp10.png",
+            "uri": "https://owlphium.com/collection/general/owlp10.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP11",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp11.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp11.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -334,20 +384,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp11.png",
+            "uri": "https://owlphium.com/collection/general/owlp11.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP12",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp12.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp12.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -365,20 +420,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp12.png",
+            "uri": "https://owlphium.com/collection/general/owlp12.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP13",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp13.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp13.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -396,20 +456,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp13.png",
+            "uri": "https://owlphium.com/collection/general/owlp13.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP14",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp14.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp14.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -427,20 +492,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp14.png",
+            "uri": "https://owlphium.com/collection/general/owlp14.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP15",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp15.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp15.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -458,20 +528,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp15.png",
+            "uri": "https://owlphium.com/collection/general/owlp15.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP16",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp16.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp16.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -489,20 +564,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp16.png",
+            "uri": "https://owlphium.com/collection/general/owlp16.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP17",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp17.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp17.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -520,20 +600,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp17.png",
+            "uri": "https://owlphium.com/collection/general/owlp17.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP18",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp18.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp18.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -551,20 +636,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp18.png",
+            "uri": "https://owlphium.com/collection/general/owlp18.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP19",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp19.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp19.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -582,20 +672,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp19.png",
+            "uri": "https://owlphium.com/collection/general/owlp19.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP20",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp20.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp20.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -613,20 +708,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp20.png",
+            "uri": "https://owlphium.com/collection/general/owlp20.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP21",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp21.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp21.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -644,20 +744,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp21.png",
+            "uri": "https://owlphium.com/collection/general/owlp21.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP22",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp22.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp22.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -675,20 +780,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp22.png",
+            "uri": "https://owlphium.com/collection/general/owlp22.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP23",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp23.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp23.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -706,20 +816,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp23.png",
+            "uri": "https://owlphium.com/collection/general/owlp23.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP24",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp24.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp24.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -737,20 +852,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp24.png",
+            "uri": "https://owlphium.com/collection/general/owlp24.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP25",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp25.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp25.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -768,20 +888,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp25.png",
+            "uri": "https://owlphium.com/collection/general/owlp25.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP26",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp26.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp26.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -799,20 +924,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp26.png",
+            "uri": "https://owlphium.com/collection/general/owlp26.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP27",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp27.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp27.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -830,20 +960,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp27.png",
+            "uri": "https://owlphium.com/collection/general/owlp27.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP28",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp28.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp28.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -861,20 +996,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp28.png",
+            "uri": "https://owlphium.com/collection/general/owlp28.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP29",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp29.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp29.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -892,20 +1032,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp29.png",
+            "uri": "https://owlphium.com/collection/general/owlp29.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP30",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp30.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp30.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -923,20 +1068,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp30.png",
+            "uri": "https://owlphium.com/collection/general/owlp30.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP31",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp31.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp31.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -954,20 +1104,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp31.png",
+            "uri": "https://owlphium.com/collection/general/owlp31.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP32",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp32.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp32.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -985,20 +1140,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp32.png",
+            "uri": "https://owlphium.com/collection/general/owlp32.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP33",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp33.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp33.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1016,20 +1176,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp33.png",
+            "uri": "https://owlphium.com/collection/general/owlp33.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP34",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp34.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp34.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1047,20 +1212,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp34.png",
+            "uri": "https://owlphium.com/collection/general/owlp34.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP35",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp35.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp35.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1078,20 +1248,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp35.png",
+            "uri": "https://owlphium.com/collection/general/owlp35.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP36",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp36.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp36.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1109,20 +1284,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp36.png",
+            "uri": "https://owlphium.com/collection/general/owlp36.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP37",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp37.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp37.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1140,20 +1320,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp37.png",
+            "uri": "https://owlphium.com/collection/general/owlp37.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP38",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp38.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp38.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1171,20 +1356,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp38.png",
+            "uri": "https://owlphium.com/collection/general/owlp38.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP39",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp39.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp39.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1202,20 +1392,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp39.png",
+            "uri": "https://owlphium.com/collection/general/owlp39.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP40",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp40.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp40.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1233,20 +1428,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp40.png",
+            "uri": "https://owlphium.com/collection/general/owlp40.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP41",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp41.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp41.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1264,20 +1464,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp41.png",
+            "uri": "https://owlphium.com/collection/general/owlp41.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP42",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp42.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp42.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1295,20 +1500,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp42.png",
+            "uri": "https://owlphium.com/collection/general/owlp42.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP43",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp43.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp43.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1326,20 +1536,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp43.png",
+            "uri": "https://owlphium.com/collection/general/owlp43.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP44",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp44.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp44.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1357,20 +1572,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp44.png",
+            "uri": "https://owlphium.com/collection/general/owlp44.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP45",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp45.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp45.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1388,20 +1608,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp45.png",
+            "uri": "https://owlphium.com/collection/general/owlp45.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP46",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp46.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp46.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1419,20 +1644,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp46.png",
+            "uri": "https://owlphium.com/collection/general/owlp46.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP47",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp47.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp47.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1450,20 +1680,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp47.png",
+            "uri": "https://owlphium.com/collection/general/owlp47.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP48",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp48.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp48.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1481,20 +1716,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp48.png",
+            "uri": "https://owlphium.com/collection/general/owlp48.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP49",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp49.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp49.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1512,20 +1752,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp49.png",
+            "uri": "https://owlphium.com/collection/general/owlp49.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP50",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp50.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp50.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1543,20 +1788,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp50.png",
+            "uri": "https://owlphium.com/collection/general/owlp50.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP51",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp51.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp51.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1574,20 +1824,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp51.png",
+            "uri": "https://owlphium.com/collection/general/owlp51.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP52",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp52.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp52.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1605,20 +1860,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp52.png",
+            "uri": "https://owlphium.com/collection/general/owlp52.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP53",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp53.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp53.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1636,20 +1896,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp53.png",
+            "uri": "https://owlphium.com/collection/general/owlp53.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP54",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp54.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp54.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1667,20 +1932,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp54.png",
+            "uri": "https://owlphium.com/collection/general/owlp54.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP55",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp55.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp55.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1698,20 +1968,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp55.png",
+            "uri": "https://owlphium.com/collection/general/owlp55.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP56",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp56.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp56.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1729,20 +2004,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp56.png",
+            "uri": "https://owlphium.com/collection/general/owlp56.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP57",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp57.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp57.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1760,20 +2040,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp57.png",
+            "uri": "https://owlphium.com/collection/general/owlp57.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP58",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp58.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp58.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1791,20 +2076,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp58.png",
+            "uri": "https://owlphium.com/collection/general/owlp58.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP59",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp59.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp59.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1822,20 +2112,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp59.png",
+            "uri": "https://owlphium.com/collection/general/owlp59.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP60",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp60.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp60.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1853,20 +2148,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp60.png",
+            "uri": "https://owlphium.com/collection/general/owlp60.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP61",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp61.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp61.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1884,20 +2184,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp61.png",
+            "uri": "https://owlphium.com/collection/general/owlp61.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP62",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp62.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp62.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1915,20 +2220,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp62.png",
+            "uri": "https://owlphium.com/collection/general/owlp62.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP63",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp63.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp63.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1946,20 +2256,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp63.png",
+            "uri": "https://owlphium.com/collection/general/owlp63.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP64",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp64.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp64.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -1977,20 +2292,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp64.png",
+            "uri": "https://owlphium.com/collection/general/owlp64.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP65",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp65.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp65.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2008,20 +2328,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp65.png",
+            "uri": "https://owlphium.com/collection/general/owlp65.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP66",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp66.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp66.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2039,20 +2364,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp66.png",
+            "uri": "https://owlphium.com/collection/general/owlp66.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP67",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp67.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp67.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2070,20 +2400,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp67.png",
+            "uri": "https://owlphium.com/collection/general/owlp67.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP68",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp68.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp68.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2101,20 +2436,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp68.png",
+            "uri": "https://owlphium.com/collection/general/owlp68.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP69",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp69.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp69.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2132,20 +2472,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp69.png",
+            "uri": "https://owlphium.com/collection/general/owlp69.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP70",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp70.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp70.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2163,20 +2508,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp70.png",
+            "uri": "https://owlphium.com/collection/general/owlp70.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP71",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp71.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp71.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2194,20 +2544,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp71.png",
+            "uri": "https://owlphium.com/collection/general/owlp71.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP72",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp72.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp72.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2225,20 +2580,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp72.png",
+            "uri": "https://owlphium.com/collection/general/owlp72.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP73",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp73.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp73.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2256,20 +2616,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp73.png",
+            "uri": "https://owlphium.com/collection/general/owlp73.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP74",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp74.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp74.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2287,20 +2652,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp74.png",
+            "uri": "https://owlphium.com/collection/general/owlp74.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP75",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp75.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp75.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2318,20 +2688,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp75.png",
+            "uri": "https://owlphium.com/collection/general/owlp75.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP76",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp76.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp76.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2349,20 +2724,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp76.png",
+            "uri": "https://owlphium.com/collection/general/owlp76.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP77",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp77.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp77.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2380,20 +2760,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp77.png",
+            "uri": "https://owlphium.com/collection/general/owlp77.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP78",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp78.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp78.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2411,20 +2796,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp78.png",
+            "uri": "https://owlphium.com/collection/general/owlp78.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP79",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp79.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp79.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2442,20 +2832,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp79.png",
+            "uri": "https://owlphium.com/collection/general/owlp79.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP80",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp80.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp80.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2473,20 +2868,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp80.png",
+            "uri": "https://owlphium.com/collection/general/owlp80.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP81",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp81.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp81.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2504,20 +2904,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp81.png",
+            "uri": "https://owlphium.com/collection/general/owlp81.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP82",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp82.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp82.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2535,20 +2940,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp82.png",
+            "uri": "https://owlphium.com/collection/general/owlp82.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP83",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp83.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp83.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2566,20 +2976,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp83.png",
+            "uri": "https://owlphium.com/collection/general/owlp83.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP84",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp84.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp84.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2597,20 +3012,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp84.png",
+            "uri": "https://owlphium.com/collection/general/owlp84.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP85",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp85.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp85.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2628,20 +3048,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp85.png",
+            "uri": "https://owlphium.com/collection/general/owlp85.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP86",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp86.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp86.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2659,20 +3084,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp86.png",
+            "uri": "https://owlphium.com/collection/general/owlp86.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP87",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp87.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp87.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2690,20 +3120,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp87.png",
+            "uri": "https://owlphium.com/collection/general/owlp87.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP88",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp88.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp88.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2721,20 +3156,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp88.png",
+            "uri": "https://owlphium.com/collection/general/owlp88.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP89",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp89.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp89.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2752,20 +3192,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp89.png",
+            "uri": "https://owlphium.com/collection/general/owlp89.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP90",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp90.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp90.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2783,20 +3228,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp90.png",
+            "uri": "https://owlphium.com/collection/general/owlp90.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP91",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp91.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp91.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2814,20 +3264,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp91.png",
+            "uri": "https://owlphium.com/collection/general/owlp91.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP92",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp92.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp92.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2845,20 +3300,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp92.png",
+            "uri": "https://owlphium.com/collection/general/owlp92.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP93",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp93.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp93.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2876,20 +3336,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp93.png",
+            "uri": "https://owlphium.com/collection/general/owlp93.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP94",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp94.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp94.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2907,20 +3372,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp94.png",
+            "uri": "https://owlphium.com/collection/general/owlp94.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP95",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp95.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp95.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2938,20 +3408,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp95.png",
+            "uri": "https://owlphium.com/collection/general/owlp95.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP96",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp96.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp96.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -2969,20 +3444,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp96.png",
+            "uri": "https://owlphium.com/collection/general/owlp96.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP97",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp97.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp97.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3000,20 +3480,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp97.png",
+            "uri": "https://owlphium.com/collection/general/owlp97.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP98",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp98.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp98.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3031,20 +3516,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp98.png",
+            "uri": "https://owlphium.com/collection/general/owlp98.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP99",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp99.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp99.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3062,20 +3552,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp99.png",
+            "uri": "https://owlphium.com/collection/general/owlp99.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP100",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp100.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp100.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3093,20 +3588,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp100.png",
+            "uri": "https://owlphium.com/collection/general/owlp100.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP101",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp101.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp101.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3124,20 +3624,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp101.png",
+            "uri": "https://owlphium.com/collection/general/owlp101.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP102",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp102.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp102.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3155,20 +3660,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp102.png",
+            "uri": "https://owlphium.com/collection/general/owlp102.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP103",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp103.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp103.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3186,20 +3696,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp103.png",
+            "uri": "https://owlphium.com/collection/general/owlp103.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP104",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp104.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp104.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3217,20 +3732,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp104.png",
+            "uri": "https://owlphium.com/collection/general/owlp104.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP105",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp105.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp105.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3248,20 +3768,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp105.png",
+            "uri": "https://owlphium.com/collection/general/owlp105.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP106",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp106.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp106.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3279,20 +3804,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp106.png",
+            "uri": "https://owlphium.com/collection/general/owlp106.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP107",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp107.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp107.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3310,20 +3840,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp107.png",
+            "uri": "https://owlphium.com/collection/general/owlp107.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP108",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp108.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp108.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3341,20 +3876,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp108.png",
+            "uri": "https://owlphium.com/collection/general/owlp108.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP109",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp109.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp109.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3372,20 +3912,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp109.png",
+            "uri": "https://owlphium.com/collection/general/owlp109.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP110",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp110.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp110.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3403,20 +3948,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp110.png",
+            "uri": "https://owlphium.com/collection/general/owlp110.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP111",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp111.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp111.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3434,20 +3984,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp111.png",
+            "uri": "https://owlphium.com/collection/general/owlp111.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP112",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp112.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp112.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3465,20 +4020,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp112.png",
+            "uri": "https://owlphium.com/collection/general/owlp112.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP113",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp113.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp113.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3496,20 +4056,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp113.png",
+            "uri": "https://owlphium.com/collection/general/owlp113.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP114",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp114.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp114.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3527,20 +4092,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp114.png",
+            "uri": "https://owlphium.com/collection/general/owlp114.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP115",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp115.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp115.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3558,20 +4128,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp115.png",
+            "uri": "https://owlphium.com/collection/general/owlp115.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP116",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp116.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp116.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3589,20 +4164,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp116.png",
+            "uri": "https://owlphium.com/collection/general/owlp116.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP117",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp117.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp117.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3620,20 +4200,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp117.png",
+            "uri": "https://owlphium.com/collection/general/owlp117.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP118",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp118.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp118.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3651,20 +4236,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp118.png",
+            "uri": "https://owlphium.com/collection/general/owlp118.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP119",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp119.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp119.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3682,20 +4272,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp119.png",
+            "uri": "https://owlphium.com/collection/general/owlp119.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP120",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp120.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp120.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3713,20 +4308,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp120.png",
+            "uri": "https://owlphium.com/collection/general/owlp120.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP121",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp121.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp121.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3744,20 +4344,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp121.png",
+            "uri": "https://owlphium.com/collection/general/owlp121.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP122",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp122.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp122.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3775,20 +4380,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp122.png",
+            "uri": "https://owlphium.com/collection/general/owlp122.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP123",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp123.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp123.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3806,20 +4416,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp123.png",
+            "uri": "https://owlphium.com/collection/general/owlp123.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP124",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp124.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp124.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3837,20 +4452,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp124.png",
+            "uri": "https://owlphium.com/collection/general/owlp124.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP125",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp125.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp125.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3868,20 +4488,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp125.png",
+            "uri": "https://owlphium.com/collection/general/owlp125.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP126",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp126.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp126.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3899,20 +4524,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp126.png",
+            "uri": "https://owlphium.com/collection/general/owlp126.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP127",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp127.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp127.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3930,20 +4560,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp127.png",
+            "uri": "https://owlphium.com/collection/general/owlp127.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP128",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp128.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp128.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3961,20 +4596,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp128.png",
+            "uri": "https://owlphium.com/collection/general/owlp128.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP129",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp129.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp129.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -3992,20 +4632,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp129.png",
+            "uri": "https://owlphium.com/collection/general/owlp129.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP130",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp130.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp130.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4023,20 +4668,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp130.png",
+            "uri": "https://owlphium.com/collection/general/owlp130.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP131",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp131.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp131.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4054,20 +4704,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp131.png",
+            "uri": "https://owlphium.com/collection/general/owlp131.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP132",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp132.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp132.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4085,20 +4740,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp132.png",
+            "uri": "https://owlphium.com/collection/general/owlp132.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP133",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp133.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp133.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4116,20 +4776,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp133.png",
+            "uri": "https://owlphium.com/collection/general/owlp133.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP134",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp134.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp134.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4147,20 +4812,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp134.png",
+            "uri": "https://owlphium.com/collection/general/owlp134.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP135",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp135.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp135.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4178,20 +4848,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp135.png",
+            "uri": "https://owlphium.com/collection/general/owlp135.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP136",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp136.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp136.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4209,20 +4884,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp136.png",
+            "uri": "https://owlphium.com/collection/general/owlp136.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP137",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp137.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp137.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4240,20 +4920,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp137.png",
+            "uri": "https://owlphium.com/collection/general/owlp137.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP138",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp138.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp138.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4271,20 +4956,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp138.png",
+            "uri": "https://owlphium.com/collection/general/owlp138.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP139",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp139.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp139.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4302,20 +4992,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp139.png",
+            "uri": "https://owlphium.com/collection/general/owlp139.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP140",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp140.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp140.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4333,20 +5028,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp140.png",
+            "uri": "https://owlphium.com/collection/general/owlp140.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP141",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp141.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp141.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4364,20 +5064,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp141.png",
+            "uri": "https://owlphium.com/collection/general/owlp141.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP142",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp142.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp142.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4395,20 +5100,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp142.png",
+            "uri": "https://owlphium.com/collection/general/owlp142.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP143",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp143.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp143.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4426,20 +5136,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp143.png",
+            "uri": "https://owlphium.com/collection/general/owlp143.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP144",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp144.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp144.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4457,20 +5172,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp144.png",
+            "uri": "https://owlphium.com/collection/general/owlp144.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP145",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp145.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp145.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4488,20 +5208,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp145.png",
+            "uri": "https://owlphium.com/collection/general/owlp145.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP146",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp146.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp146.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4519,20 +5244,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp146.png",
+            "uri": "https://owlphium.com/collection/general/owlp146.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP147",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp147.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp147.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4550,20 +5280,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp147.png",
+            "uri": "https://owlphium.com/collection/general/owlp147.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP148",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp148.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp148.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4581,20 +5316,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp148.png",
+            "uri": "https://owlphium.com/collection/general/owlp148.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP149",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp149.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp149.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4612,20 +5352,25 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp149.png",
+            "uri": "https://owlphium.com/collection/general/owlp149.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     },
     {
       "name": "OWLP150",
       "description": "**Owlphium** is a 150-piece interstellar NFT collection blending ancient mysticism and sci-fi. Each piece, born from Noctavium’s harmony of nature and tech, features cosmic backgrounds, energetic gear, and futuristic designs.",
-      "external_url": "",
-      "image": "owlp150.png",
+      "external_url": "https://owlphium.com",
+      "image": "https://owlphium.com/collection/general/owlp150.png",
       "attributes": [
         {
           "trait_type": "Background",
@@ -4643,12 +5388,17 @@
       "properties": {
         "files": [
           {
-            "uri": "owlp150.png",
+            "uri": "https://owlphium.com/collection/general/owlp150.png",
             "type": "image/png"
           }
         ],
         "category": "image",
-        "creators": []
+        "creators": [
+          {
+            "address": "1CiuAHASYFX1W6W7ijpcRhCwsTeta14uAaWbYQpd8q7Vg",
+            "share": 100
+          }
+        ]
       },
       "compiler": "NFTexport.io"
     }
