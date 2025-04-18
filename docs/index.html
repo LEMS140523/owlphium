@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="favicon.ico" rel="icon" type="image/x-icon"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Owlphium Docs</title>
+<style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: system-ui, sans-serif;
+      background-color: #111827;
+      color: #e5e7eb;
+    }
+
+    header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 60px;
+      background-color: #1f2937;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid #374151;
+      z-index: 1001;
+    }
+
+    .hamburger {
+      font-size: 24px;
+      background: none;
+      color: white;
+      border: none;
+      cursor: pointer;
+      margin-right: 1rem;
+      display: block;
+    }
+
+    @media (min-width: 769px) {
+      .hamburger {
+        display: none;
+      }
+    }
+
+    .logo img {
+      height: 32px;
+    }
+
+    @media (min-width: 769px) {
+      .logo img {
+        height: 52px;
+      }
+    }
+
+    .sidebar {
+      background-color: #1f2937;
+      width: 260px;
+      position: fixed;
+      top: 60px;
+      bottom: 0;
+      left: 0;
+      padding: 1rem;
+      overflow-y: auto;
+      border-right: 1px solid #374151;
+    }
+
+    .sidebar h2 {
+      font-size: 12px;
+      color: #9ca3af;
+      text-transform: uppercase;
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .sidebar a {
+      display: block;
+      padding: 0.4rem 0;
+      color: #e5e7eb;
+      font-size: 14px;
+      text-decoration: none;
+    }
+
+    .sidebar a:hover {
+      color: #3b82f6;
+    }
+
+    .mobile-menu {
+      display: none;
+      position: fixed;
+      top: 60px;
+      left: 0;
+      right: 0;
+      background-color: #1f2937;
+      z-index: 1000;
+      padding: 1rem;
+      border-bottom: 1px solid #374151;
+    }
+
+    .mobile-menu a {
+      display: block;
+      padding: 0.5rem 0;
+      color: #e5e7eb;
+      text-decoration: none;
+      font-size: 15px;
+    }
+
+    .mobile-menu a:hover {
+      color: #3b82f6;
+    }
+
+    .content {
+      padding: 5rem 2rem 2rem;
+      margin-left: 260px;
+    }
+
+    .content h1, .content h2 {
+      color: #f9fafb;
+      margin-bottom: 0.5rem;
+    }
+
+    .content p {
+      margin-bottom: 2rem;
+    }
+
+    .content a {
+      color: #3b82f6;
+    }
+
+    @media (max-width: 768px) {
+      .sidebar {
+        display: none;
+      }
+
+      .content {
+        margin-left: 0;
+        padding: 5rem 1.5rem 2rem;
+      }
+    }
+  
+    .nav-btns {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 40px;
+    }
+    .nav-btns button {
+      background: #1f2937;
+      color: #e5e7eb;
+      border: 1px solid #374151;
+      padding: 10px 20px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    .nav-btns button:hover {
+      background: #374151;
+    }
+
+  
+    @media (max-width: 768px) {
+      .nav-btns {
+        flex-direction: column;
+        gap: 10px;
+      }
+      .nav-btns button {
+        width: 100%;
+        text-align: center;
+      }
+    }
+
+    .content h1, .content h2 {
+        color: #f9fafb;
+        margin-bottom: 0.5rem;
+        text-align: center;
+    }
+
+    .content p, .content ul, .content ol {
+        text-align: justify;
+    }
+    </style>
+</head>
+<body>
+<header>
+<button class="hamburger" onclick="toggleMenu()">☰</button>
+<div class="logo">
+<img alt="Owlphium Docs" src="bannerdocs.png"/>
+</div>
+</header>
+<div class="mobile-menu" id="mobileMenu"><a href="#" onclick="goToSection('welcome'); toggleMenu(); return false;">Welcome</a><a href="#" onclick="goToSection('roadmap'); toggleMenu(); return false;">Roadmap</a><a href="#" onclick="goToSection('wallet'); toggleMenu(); return false;">How to Create a Wallet?</a><a href="#" onclick="goToSection('buyalph'); toggleMenu(); return false;">How to Buy $ALPH?</a><a href="#" onclick="goToSection('buyowlp'); toggleMenu(); return false;">How to Buy $OWLP?</a><a href="#" onclick="goToSection('tokenomics'); toggleMenu(); return false;">Tokenomics</a><a href="#" onclick="goToSection('contracts'); toggleMenu(); return false;">Contracts</a><a href="#" onclick="goToSection('mint'); toggleMenu(); return false;">Mint NFTs</a><a href="#" onclick="goToSection('collection'); toggleMenu(); return false;">Collection Info</a><a href="#" onclick="goToSection('privacy'); toggleMenu(); return false;">Privacy Policy</a><a href="#" onclick="goToSection('terms'); toggleMenu(); return false;">Terms of Service</a></div>
+<nav class="sidebar">
+<h2>👋 Introduction</h2>
+<a href="#" onclick="goToSection('welcome')">Welcome</a>
+<a href="#" onclick="goToSection('roadmap')">Roadmap</a>
+<a href="#" onclick="goToSection('wallet')">How to Create a Wallet?</a><a href="#" onclick="goToSection('buyalph')">How to Buy $ALPH?</a><a href="#" onclick="goToSection('buyowlp')">How to Buy $OWLP?</a>
+<h2>📄 Token Info</h2>
+<a href="#" onclick="goToSection('tokenomics')">Tokenomics</a>
+<a href="#" onclick="goToSection('contracts')">Contracts</a>
+<h2>🎨 Marketplace</h2>
+<a href="#" onclick="goToSection('mint')">Mint NFTs</a>
+<a href="#" onclick="goToSection('collection')">Collection Info</a>
+<h2>⚖️ Legal</h2>
+<a href="#" onclick="goToSection('privacy')">Privacy Policy</a>
+<a href="#" onclick="goToSection('terms')">Terms of Service</a>
+</nav>
+<main class="content">
+<section class="doc-section" id="welcome">
+<h1>Welcome to the Official Owlphium Documentation</h1>
+<p>Welcome to the heart of Owlphium — your go-to resource to understand our mission, technology, and community values. Whether you're a curious newcomer or a dedicated supporter, this documentation is crafted to guide you through every aspect of the Owlphium ecosystem.</p>
+<h2>🦉 What is Owlphium?</h2>
+<p>Owlphium is more than just a meme coin — it’s a movement built on Alephium, a secure and scalable Layer 1 blockchain. Inspired by cosmic wisdom and technological evolution, Owlphium aims to unite degens, builders, and visionaries under one powerful symbol: the owl.<br/><br/>
+Through community-driven development, unique NFTs, and a transparent roadmap, Owlphium seeks to bridge fun and utility in the Web3 space.</p>
+<h2>🤝 Our Commitment to the Community</h2>
+<ul>
+<li><strong>Transparency</strong>: All development and treasury movements are visible to the public.</li>
+<li><strong>Creativity</strong>: Our NFT collection and meme culture reflect a deep commitment to visual and narrative excellence.</li>
+<li><strong>Accessibility</strong>: From beginners to crypto veterans, everyone is welcome.</li>
+<li><strong>Longevity</strong>: We are here for the long flight — not just to soar, but to guide.</li>
+</ul>
+<p>We’re not chasing hype. We’re building something to outlast it.</p>
+<h2>🌐 Join Our Growing Community</h2>
+<ul>
+<li>🐦 Follow us on Twitter: <a href="https://twitter.com/Owlphium" target="_blank">@Owlphium</a></li>
+<li>💬 Join the conversation on Telegram: <a href="https://t.me/Owlphium" target="_blank">t.me/Owlphium</a></li>
+<li>📷 Explore our NFTs on <a href="https://alphaga.app/collections/4a32781092e5d70ed4927d381092d028da878d7c27b4863d34bf68d433d12500" target="_blank">Alphaga</a></li>
+<li>🌍 Visit our website: <a href="https://owlphium.com" target="_blank">owlphium.com</a></li>
+<li>📧 Email us: <a href="mailto:hello@owlphium.com">hello@owlphium.com</a></li>
+</ul>
+<div class="nav-btns"><button onclick="goToNext()">Next: 🚀 Roadmap →</button></div></section>
+<section class="doc-section" id="roadmap" style="display: none;">
+<h2>🚀 Roadmap</h2>
+<div style="margin-bottom: 2rem;">
+<h3 style="color: #facc15;">🐣 Phase 1: Hatching</h3>
+<ul>
+<li>Creation of Owlphium’s lore and character ✅</li>
+<li>Launch of $OWLP on <a href="https://myonion.fun/trade?tokenId=8a674cbf53bed652403a5fbd92da127f0f4a122da7d366152519fc1ce5bd0f00" target="_blank">MyOnion</a> ✅</li>
+<li>Website and Whitepaper v1.0 live ✅</li>
+</ul>
+</div>
+<div style="margin-bottom: 2rem;">
+<h3 style="color: #facc15;">🦉 Phase 2: Soaring</h3>
+<ul>
+<li>Launch 150 collectible NFTs on <a href="https://alphaga.app/collections/4a32781092e5d70ed4927d381092d028da878d7c27b4863d34bf68d433d12500" target="_blank">Alphaga</a> ✅</li>
+<li>Grow our community organically</li>
+<li>Graduate on <a href="https://myonion.fun/trade?tokenId=8a674cbf53bed652403a5fbd92da127f0f4a122da7d366152519fc1ce5bd0f00" target="_blank">MyOnion</a></li>
+</ul>
+</div>
+<div style="margin-bottom: 2rem;">
+<h3 style="color: #facc15;">🪐 Phase 3: Conquest</h3>
+<ul>
+<li>Influencer partnerships on X</li>
+<li>First $1000 donation to an owl sanctuary</li>
+<li>First CEX listing</li>
+</ul>
+</div>
+<div class="nav-btns"><button onclick="goToPrevious()">← Back: 🦉 What is Owlphium?</button><button onclick="goToNext()">Next: 🔐 How to Create a Wallet? →</button></div>
+</section>
+<section class="doc-section" id="wallet" style="display: none;">
+<h2>🔐 How to Create a Wallet?</h2>
+<p>You can easily create a wallet by visiting the official page below and following the instructions provided:</p><div style="background-color:#1f2937; border: 1px solid #374151; padding: 16px; border-radius: 6px; display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
+<img alt="Alephium" src="alephium.png" style="height: 32px; width: 32px; border-radius: 50%; margin-right: 12px;"/>
+<div style="font-size: 16px;">
+<strong>Overview</strong> | Alephium Documentation
+                </div>
+</div>
+<div>
+<a href="https://docs.alephium.org/wallet/" style="color: #e5e7eb; text-decoration: none; font-size: 20px;" target="_blank">›</a>
+</div>
+</div>
+<div class="nav-btns"><button onclick="goToPrevious()">← Back: 🚀 Roadmap</button><button onclick="goToNext()">Next: 💸 How to Buy $ALPH? →</button></div>
+</section><section class="doc-section" id="buyalph" style="display: none;">
+<h2 style="font-size: 22px; margin-bottom: 1rem;">💸 How to Buy $ALPH?</h2>
+<p style="margin-left: 0.5rem; margin-right: 0.5rem; margin-bottom: 1rem; font-size: 15px;">You can buy Alephium ($ALPH) easily using either a decentralized or centralized exchange. Here's how:</p>
+<h3 style="font-size: 18px; margin-top: 2rem; margin-bottom: 0.75rem;">Option 1: Buy through a Decentralized Exchange (DEX)</h3>
+<ol style="margin-left: 1rem; margin-right: 1rem; margin-top: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+<li>Go to <a href="https://app.uniswap.org/swap" target="_blank">Uniswap</a> and connect your wallet.</li>
+<li>Swap USDT for ALPH using the Ethereum token address: <code>0x590F820444fA3638e022776752c5eEF34E2F89A6</code></li>
+<li>Use the official <a href="https://bridge.alephium.org" target="_blank">Alephium Bridge</a> to transfer your ALPH to the Alephium network.</li>
+</ol>
+<h3 style="font-size: 18px; margin-top: 2rem; margin-bottom: 0.75rem;">Option 2: Buy through a Centralized Exchange (CEX)</h3>
+<p style="margin-left: 0.5rem; margin-right: 0.5rem; margin-bottom: 1rem; font-size: 15px;">You can purchase ALPH directly with USDT on any of the following exchanges:</p><ul style="margin-left: 1rem; margin-right: 1rem; margin-top: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+<li><a href="https://www.gate.io/trade/ALPH_USDT" target="_blank">Gate.io</a></li>
+<li><a href="https://www.bitmart.com/trade/en-US?symbol=ALPH_USDT" target="_blank">BitMart</a></li>
+<li><a href="https://www.mexc.com/exchange/ALPH_USDT" target="_blank">MEXC</a></li>
+<li><a href="https://xeggex.com/market/ALPH_USDT" target="_blank">XeggeX</a></li>
+</ul>
+<ol style="margin-left: 1rem; margin-right: 1rem; margin-top: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+<li>Create an account on your chosen exchange.</li>
+<li>Deposit USDT and use it to buy ALPH via the ALPH/USDT pair.</li>
+<li>Withdraw your ALPH to your personal Alephium wallet for safekeeping.</li>
+</ol>
+<h3 style="font-size: 18px; margin-top: 2rem; margin-bottom: 0.75rem;">Final Step: Transfer ALPH to Your Alephium Wallet</h3>
+<ol style="margin-left: 1rem; margin-right: 1rem; margin-top: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+<li>Open your Alephium wallet and click “Receive” to get your address.</li>
+<li>Send your ALPH from the exchange or external wallet to your Alephium address.</li>
+<li>Your ALPH should appear in your wallet shortly after the transaction is processed.</li>
+</ol>
+<div class="nav-btns"><button onclick="goToPrevious()">← Back: 🔐 How to Create a Wallet?</button><button onclick="goToNext()">Next: 🦉 How to Buy $OWLP? →</button></div>
+</section><section class="doc-section" id="buyowlp" style="display: none;">
+<h2 style="font-size: 22px; margin-bottom: 1rem;">🦉 How to Buy $OWLP?</h2>
+<p style="margin-left: 0.5rem; margin-right: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+    Buying $OWLP is easy and decentralized! Here's how to do it on MyOnion:
+  </p>
+<ol style="margin-left: 1rem; margin-right: 1rem; margin-top: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+<li>Go to <a href="https://myonion.fun/trade?tokenId=8a674cbf53bed652403a5fbd92da127f0f4a122da7d366152519fc1ce5bd0f00" target="_blank">MyOnion.fun</a>.</li>
+<li>Connect your Alephium wallet using the wallet connect button.</li>
+<li>Swap your ALPH for $OWLP using the trading interface.</li>
+</ol>
+<p style="margin-left: 0.5rem; margin-right: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+    Make sure you have enough ALPH in your wallet to cover both the swap and gas fees.
+  </p>
+<div class="nav-btns"><button onclick="goToPrevious()">← Back: 💸 How to Buy $ALPH?</button><button onclick="goToNext()">Next: 📄 Tokenomics →</button></div>
+</section>
+<section class="doc-section" id="tokenomics" style="display: none;">
+<h2>📄 Tokenomics</h2>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+$OWLP has a total supply of <strong>1,000,000,000 tokens</strong>. Here's how it's structured:
+</p>
+<h3 style="margin-top: 2rem; margin-bottom: 0.75rem; font-size: 18px;">🔧 Developer Allocation</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+The development team holds <strong>30,000,000 $OWLP</strong>, which represents:
+</p>
+<ul style="margin-left: 1.5rem; margin-bottom: 1rem; font-size: 15px;">
+<li><strong>3%</strong> of the total supply</li>
+<li>Reserved for long-term development, maintenance, and infrastructure improvements</li>
+</ul>
+<h3 style="margin-top: 2rem; margin-bottom: 0.75rem; font-size: 18px;">🛒 Public Availability</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+The remaining <strong>970,000,000 $OWLP</strong> are publicly available, meaning:
+</p>
+<ul style="margin-left: 1.5rem; margin-bottom: 1rem; font-size: 15px;">
+<li><strong>97%</strong> of the token supply is accessible to the community</li>
+<li>You can purchase $OWLP directly on 
+    <a href="https://myonion.fun/trade?tokenId=8a674cbf53bed652403a5fbd92da127f0f4a122da7d366152519fc1ce5bd0f00" target="_blank">MyOnion.fun</a>
+</li>
+</ul>
+<h3 style="margin-top: 2rem; margin-bottom: 0.75rem; font-size: 18px;">🎯 Our Philosophy</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+We believe in fairness and decentralization. That’s why the majority of the token supply is available to the public, ensuring open participation in the Owlphium ecosystem.
+</p>
+<div class="nav-btns"><button onclick="goToPrevious()">← Back: 🦉 How to Buy $OWLP?</button><button onclick="goToNext()">Next: 📄 Contracts →</button></div>
+</section>
+<section class="doc-section" id="contracts" style="display: none;">
+<h2>📄 Contracts</h2>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+Here is the official contract address for the $OWLP token:
+</p>
+<div style="background-color:#1f2937; border: 1px solid #374151; padding: 16px; border-radius: 6px; display: flex; align-items: center; justify-content: space-between;; flex-wrap: wrap; gap: 12px; word-break: break-all; padding: 12px;">
+<div style="display: flex; align-items: center;">
+<img alt="Owlphium" src="owlphium.png" style="height: 32px; width: 32px; border-radius: 50%; margin-right: 12px;"/>
+<div style="font-size: 16px;">
+<strong>Contract Address</strong> | OWLP Token
+    </div>
+</div>
+<div style="font-family: monospace; font-size: 14px; color: #e5e7eb;">
+    8a674cbf53bed652403a5fbd92da127f0f4a122da7d366152519fc1ce5bd0f00
+  </div>
+</div>
+<div class="nav-btns"><button onclick="goToPrevious()">← Back: 📄 Tokenomics</button><button onclick="goToNext()">Next: 🎨 Mint NFTs →</button></div>
+</section>
+<section class="doc-section" id="mint" style="display: none;">
+<h2>🎨 Mint NFTs</h2>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+Follow these steps to mint your Owlphium NFT on Alphaga:
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">1. Go to the Minting Page</h3>
+<p style="margin-left: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+Visit the official Owlphium mint page:
+<a href="https://alphaga.app/collections/4a32781092e5d70ed4927d381092d028da878d7c27b4863d34bf68d433d12500/mint" style="color: #3b82f6;" target="_blank">Click here to mint</a>
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">2. Connect Your Wallet</h3>
+<p style="margin-left: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+Click the "Connect Wallet" button and authorize your Alephium wallet to connect to Alphaga.
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">3. Check Availability</h3>
+<p style="margin-left: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+See how many NFTs are available and the price. Make sure you have enough ALPH to cover minting and fees.
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">4. Mint Your NFT</h3>
+<p style="margin-left: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+Click the "Mint" button and confirm the transaction in your wallet. Wait for confirmation.
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">5. View Your NFT</h3>
+<p style="margin-left: 0.5rem; margin-bottom: 1rem; font-size: 15px;">
+Once minted, you'll find your NFT in the "My NFTs" section on Alphaga. You can also verify it on the Alephium explorer.
+</p>
+<div class="nav-btns"><button onclick="goToPrevious()">← Back: 📄 Contracts</button><button onclick="goToNext()">Next: 🎨 Collection Info →</button></div>
+</section>
+<section class="doc-section" id="collection" style="display: none;">
+<h2>🎨 Collection Info</h2>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+The <strong>Owlphium NFT Collection</strong> is a generative set of <strong>150 unique NFTs</strong> featuring the interstellar owl-being known as <strong>Owlphium</strong>. Each NFT was randomly generated using a curated pool of hand-designed visual layers — resulting in one-of-a-kind combinations across the entire series.
+</p>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+These NFTs showcase Owlphium in a variety of cosmic forms and futuristic configurations, with traits such as:
+</p>
+<ul style="margin-left: 1.5rem; font-size: 15px; margin-bottom: 1rem;">
+<li>🧠 Neural crowns and quantum visors</li>
+<li>🌌 Energetic cosmic backgrounds full of life</li>
+<li>💎 Legendary items like the Plasma Arc Ring and AI Guardian Core</li>
+</ul>
+<h3 style="margin-top: 2rem; margin-bottom: 0.5rem; font-size: 18px;">🔍 What Makes Owlphium Unique?</h3>
+<ul style="margin-left: 1.5rem; font-size: 15px; margin-bottom: 1rem;">
+<li><strong>Layer-Based Randomization:</strong> Every piece was created by combining original visual components designed to fit perfectly on a base character.</li>
+<li><strong>Fixed Total Supply:</strong> The collection is limited to only <strong>150 NFTs</strong> — no future drops, no inflation.</li>
+<li><strong>Built on Alephium:</strong> Hosted on <strong>Alphaga</strong> and powered by the energy-efficient, UTXO-based <strong>Alephium blockchain</strong>.</li>
+<li><strong>Backed by Lore:</strong> Each NFT ties into the lore of Owlphium — an alien blockchain engineer from the planet Noctavium, exploring decentralized civilizations.</li>
+</ul>
+<h3 style="margin-top: 2rem; margin-bottom: 0.5rem; font-size: 18px;">🛠️ Minting Experience</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+You can mint Owlphium NFTs directly on Alphaga with just an Alephium wallet and enough ALPH to cover the cost. The process is smooth, secure, and on-chain.
+</p>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+🔗 <a href="https://alphaga.app/collections/4a32781092e5d70ed4927d381092d028da878d7c27b4863d34bf68d433d12500/mint" style="color: #3b82f6;" target="_blank">Click here to mint your Owlphium NFT</a>
+</p>
+<div class="nav-btns"><button onclick="goToPrevious()">← Back: 🎨 Mint NFTs</button><button onclick="goToNext()">Next: ⚖️ Privacy Policy →</button></div>
+</section>
+<section class="doc-section" id="privacy" style="display: none;">
+<h2>⚖️ Privacy Policy</h2>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+This Privacy Policy outlines how we handle information related to users of the <strong>$OWLP</strong> token and the <strong>Owlphium: The NFT Collection</strong> project.
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">1. 🔒 No Personal Data Collection</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+We do <strong>not</strong> collect, store, or request any personal data. Owlphium is a decentralized project and interacts only through blockchain-based platforms like <strong>Alephium</strong>, <strong>Alphaga</strong>, and <strong>MyOnion</strong>. All transactions are public and traceable on the blockchain.
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">2. 🧠 On-Chain Interactions Only</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+All minting, trading, and wallet connections happen on third-party platforms. We do not manage nor have access to user wallets, private keys, or balances. You are solely responsible for the security of your wallet and funds.
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">3. 📉 No Financial Advice</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+Nothing in the Owlphium project — including $OWLP token content, NFT artwork, or roadmap updates — should be interpreted as <strong>investment advice</strong>, <strong>financial guarantees</strong>, or <strong>a promise of returns</strong>.
+</p>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+We are a creative, community-driven experiment that values fun, culture, and decentralization.
+</p>
+<blockquote style="border-left: 4px solid #3b82f6; padding-left: 12px; color: #93c5fd; font-style: italic; margin-bottom: 1rem;">
+  Always DYOR (Do Your Own Research) before participating in any crypto project.
+</blockquote>
+<h3 style="margin-top: 2rem; font-size: 18px;">4. 🌍 Third-Party Links</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+Owlphium may link to third-party platforms such as <strong>Alphaga</strong>, <strong>Alephium.org</strong>, and <strong>MyOnion.fun</strong>. These services operate independently and have their own privacy policies. We are not responsible for data practices outside our ecosystem.
+</p>
+<div class="nav-btns"><button onclick="goToPrevious()">← Back: 🎨 Collection Info</button><button onclick="goToNext()">Next: ⚖️ Terms of Service →</button></div>
+</section>
+<section class="doc-section" id="terms" style="display: none;">
+<h2>⚖️ Terms of Service</h2>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+These Terms of Service ("Terms") govern your access to and use of the Owlphium project, including the <strong>$OWLP</strong> token and the <strong>Owlphium: The NFT Collection</strong>. By interacting with our collection or token, you agree to the following:
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">1. 🛠️ Project Nature</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+Owlphium is a community-driven, decentralized experiment built on the Alephium blockchain. It does not represent a company, foundation, or legal entity. All materials — including NFTs, token information, and lore — are provided for creative and entertainment purposes only.
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">2. 📉 No Guarantees or Promises</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+We do not guarantee any form of financial return, profit, or success by holding $OWLP or purchasing an Owlphium NFT. Participation is entirely voluntary.
+</p>
+<blockquote style="border-left: 4px solid #3b82f6; padding-left: 12px; color: #93c5fd; font-style: italic; margin-bottom: 1rem;">
+  Owlphium is not an investment. It is a digital art project with meme culture and decentralized values at its core.
+</blockquote>
+<h3 style="margin-top: 2rem; font-size: 18px;">3. 🔐 Self-Custody and Responsibility</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+You are responsible for managing your own wallet, private keys, and funds. We do not have access to your accounts and cannot recover lost assets.
+</p>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+We recommend using only trusted wallets and verifying all interactions with blockchain platforms such as Alphaga, Alephium.org, and MyOnion.
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">4. 🌍 Third-Party Services</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+The Owlphium project relies on decentralized platforms like Alphaga and MyOnion. We do not control these services and are not liable for technical issues, downtime, or security incidents that occur on third-party platforms.
+</p>
+<h3 style="margin-top: 2rem; font-size: 18px;">5. 💡 Do Your Own Research (DYOR)</h3>
+<p style="margin-bottom: 1rem; font-size: 15px;">
+Before purchasing $OWLP tokens or minting an NFT, users should conduct independent research and understand the risks of participating in decentralized ecosystems.
+</p>
+<div class="nav-btns"><button onclick="goToPrevious()">← Back: ⚖️ Privacy Policy</button><button onclick="goToSection('welcome')">🏠 Home</button></div>
+</section>
+</main>
+<script>
+    function toggleMenu() {
+      const menu = document.getElementById('mobileMenu');
+      menu.style.display = (menu.style.display === 'block') ? 'none' : 'block';
+    }
+  
+    function scrollToSection(id) {
+      const section = document.getElementById(id);
+      if (section) {
+        window.scrollTo({ top: section.offsetTop - 60, behavior: 'smooth' });
+      }
+    }
+
+  
+  let currentSection = 0;
+  const sections = document.querySelectorAll('.doc-section');
+
+  function showSection(index) {
+    sections.forEach((s, i) => {
+      s.style.display = (i === index) ? 'block' : 'none';
+    });
+    currentSection = index;
+  }
+
+  function goToNext() {
+    if (currentSection < sections.length - 1) {
+      showSection(currentSection + 1);
+    }
+  }
+
+  function goToPrevious() {
+    if (currentSection > 0) {
+      showSection(currentSection - 1);
+    }
+  }
+
+  function goToSection(id) {
+    const index = [...sections].findIndex(s => s.id === id);
+    if (index !== -1) {
+      showSection(index);
+    }
+  }
+
+  document.addEventListener('click', function(event) {
+    const menu = document.getElementById('mobileMenu');
+    const button = document.querySelector('.hamburger');
+    if (menu.style.display === 'block' && !menu.contains(event.target) && !button.contains(event.target)) {
+      toggleMenu();
+    }
+  });
+</script>
+</body>
+</html>
