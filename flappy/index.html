@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Flappy Owlphium | The Game</title>
   <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
   <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet" />
@@ -79,7 +80,51 @@
       text-align: center;
       margin: 10px 0;
     }
-  </style>
+  
+@media (max-width: 768px) {
+  #startScreen .startContent h1 {
+    font-size: 40px;
+    margin-bottom: 100px;
+  }
+
+  button {
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+
+  #claimScreen input {
+    width: 90%;
+    font-size: 14px;
+  }
+
+  #claimScreen p {
+    font-size: 14px;
+    padding: 0 10px;
+  }
+
+  #highScoreScreen {
+    font-size: 18px;
+    padding: 0 10px;
+  }
+
+  #scoreDisplay {
+    font-size: 16px;
+    top: 5px;
+    left: 10px;
+  }
+
+  #gameOverScreen h1,
+  #claimScreen h1 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  #gameOverScreen img,
+  #claimScreen img {
+    width: 80px;
+  }
+}
+</style>
 </head>
 <body>
   
