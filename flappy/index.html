@@ -578,9 +578,11 @@ document.getElementById('scoreDisplay').style.display = 'none';
       ctx.clearRect(0, 0, width, height);
       drawBackground();
       if (inStart) owl.y = height / 2;
-      if (!inStart) update();
+      if (!inStart) {
+      update();
       updateAsteroids();
       drawAsteroids();
+    }
       drawOwlphium();
       updateParticles();
       drawParticles();
