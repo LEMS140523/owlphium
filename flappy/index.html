@@ -124,6 +124,20 @@
     width: 80px;
   }
 }
+
+
+    #startButtons {
+      display: flex;
+      gap: 20px;
+    }
+
+    @media (max-width: 768px) {
+      #startButtons {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+
 </style>
 </head>
 <body>
@@ -139,11 +153,12 @@
 
   <div id="startScreen" class="startContent">
     <h1>FLAPPY OWLPHIUM</h1>
-    <button id="startButton">PLAY</button>
+<div id="startButtons"><button id="startButton">PLAY</button><button id="viewScoresButton">HIGH SCORES</button></div>
   </div>
 
   <div id="gameOverScreen" style="display:none;">
     <h1>GAME OVER</h1>
+      <h2 id="finalScoreDisplay" style="margin-top:10px;">Score: 0</h2>
     <img src="assets/mad.png" alt="Owlphium Angry" />
     <button id="restartButton">RETRY</button>
   </div>
@@ -208,6 +223,7 @@ bgMusic.loop = true;
 
     let flameTimer = 0;
     let inGame = false;
+let gameEnded = false;
     let inStart = true;
 
     const owlSprite = new Image();
@@ -399,7 +415,7 @@ function handleTop5() {
     }
 
     // Solo añadir si el score es mayor a 1002
-    if (score > 1002) {
+    if (score >= 10000) {
       highScores.push({ name: nickname, score });
       highScores.sort((a, b) => b.score - a.score);
       if (highScores.length > 5) highScores = highScores.slice(0, 5);
@@ -462,14 +478,16 @@ function handleTop5() {
           bgMusic.pause();
           createExplosion(owl.x, owl.y);
           setTimeout(() => {
-      if (score > 10002) {
+      if (score >= 10000) {
         handleTop5();
       } else {
+        document.getElementById("finalScoreDisplay").textContent = `Score: ${score}`;
         gameOverScreen.style.display = "flex";
         document.getElementById('scoreDisplay').style.display = "none";
         document.getElementById("claimScreen").style.display = "none";
       }
       playGameOver();
+      gameEnded = true;
     }, 600);
         }
       }
@@ -575,6 +593,12 @@ document.getElementById('scoreDisplay').style.display = 'none';
 });
 
     function loop() {
+  if (gameEnded) {
+    ctx.clearRect(0, 0, width, height);
+    drawBackground();
+    requestAnimationFrame(loop);
+    return;
+  }
       ctx.clearRect(0, 0, width, height);
       drawBackground();
       if (inStart) owl.y = height / 2;
@@ -623,6 +647,24 @@ highScoreScreen.style.display = "flex";
   }, 5000);
 }
 
+
+document.getElementById("viewScoresButton").addEventListener("click", () => {
+  const scoreList = document.getElementById("scoreList");
+  const filtered = highScores.filter(h => h.score >= 10000);
+  filtered.sort((a, b) => b.score - a.score);
+  scoreList.innerHTML = filtered.map((entry, i) => `<div>${i + 1}. ${entry.name} - ${entry.score} points</div>`).join("");
+  document.getElementById("fullHighScoreScreen").style.display = "block";
+});
+
 </script>
+
+<div id="fullHighScoreScreen" style="display:none;position:absolute;top:0;left:0;width:100%;height:100%;z-index:25;background:rgba(0,0,0,0.95);color:white;overflow-y:auto;padding:20px;box-sizing:border-box;font-family:'Orbitron',sans-serif;">
+  <h2 style="text-align:center;">🏆 GLOBAL HIGH SCORES</h2>
+  <div id="scoreList" style="max-width:600px;margin:0 auto;text-align:left;font-size:20px;"></div>
+  <div style="text-align:center;margin-top:20px;">
+    <button onclick="document.getElementById('fullHighScoreScreen').style.display='none'">Back</button>
+  </div>
+</div>
 </body>
+
 </html>
