@@ -427,6 +427,16 @@ document.getElementById("modal").addEventListener("touchend", function(e) {
   if (endX - startX > 50) prevImage(e);
 }, false);
 
+
+// Close mobile menu when clicking anywhere outside
+document.addEventListener("click", function(event) {
+  const menu = document.getElementById("mobileMenu");
+  const hamburger = document.querySelector(".hamburger");
+  if (menu.style.display === "block" && !menu.contains(event.target) && !hamburger.contains(event.target)) {
+    menu.style.display = "none";
+  }
+});
+
 </script>
 </body>
 </html>
