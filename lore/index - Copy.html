@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Owlphium Lorebook</title>
+  <link href="favicon.ico" rel="icon" type="image/x-icon" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, sans-serif;
+      background-color: #111827;
+      color: #e5e7eb;
+    }
+    header {
+      position: fixed; top: 0; left: 0; width: 100%; height: 60px;
+      background-color: #1f2937;
+      display: flex; align-items: center;
+      padding: 0.75rem 1rem;
+      border-bottom: 1px solid #374151;
+      z-index: 1001;
+    }
+    .hamburger {
+      font-size: 24px;
+      background: none; color: white; border: none;
+      cursor: pointer; margin-right: 1rem;
+    }
+    .logo img { height: 32px; }
+    @media (min-width: 769px) { .hamburger { display: none; } .logo img { height: 52px; } }
+    .sidebar {
+      background-color: #1f2937;
+      width: 260px; position: fixed; top: 60px; bottom: 0; left: 0;
+      padding: 1rem; overflow-y: auto;
+      border-right: 1px solid #374151;
+    }
+    .sidebar h2 {
+      font-size: 12px; color: #9ca3af;
+      text-transform: uppercase;
+      margin-top: 1.5rem; margin-bottom: 0.5rem;
+    }
+    .sidebar a {
+      display: block; padding: 0.4rem 0;
+      color: #e5e7eb; font-size: 14px;
+      text-decoration: none;
+    }
+    .sidebar a:hover { color: #3b82f6; }
+    .mobile-menu {
+      display: none; position: fixed; top: 60px; left: 0; right: 0;
+      background-color: #1f2937; z-index: 1000;
+      padding: 1rem; border-bottom: 1px solid #374151;
+    }
+    .mobile-menu a {
+      display: block; padding: 0.5rem 0;
+      color: #e5e7eb; text-decoration: none;
+      font-size: 15px;
+    }
+    .mobile-menu a:hover { color: #3b82f6; }
+    .content {
+      padding: 5rem 2rem 2rem;
+      margin-left: 260px;
+    }
+    @media (max-width: 768px) {
+      .sidebar { display: none; }
+      .content { margin-left: 0; padding: 5rem 1.5rem 2rem; }
+    }
+    .nav-btns {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 40px;
+    }
+    .nav-btns button {
+      background: #1f2937; color: #e5e7eb;
+      border: 1px solid #374151;
+      padding: 10px 20px; cursor: pointer;
+      font-size: 14px;
+    }
+    .nav-btns button:hover { background: #374151; }
+    @media (max-width: 768px) {
+      .nav-btns { flex-direction: column; gap: 10px; }
+      .nav-btns button { width: 100%; text-align: center; }
+    }
+    .content h1, .content h2 {
+      color: #f9fafb;
+      margin-bottom: 0.5rem;
+      text-align: center;
+    }
+    .content p, .content ul, .content ol {
+      text-align: justify;
+      margin-bottom: 1rem;
+    }
+  
+.image-gallery {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 40px 0;
+}
+.image-gallery img {
+  max-width: 160px;
+  height: auto;
+  cursor: pointer;
+  border-radius: 6px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  transition: transform 0.2s ease;
+}
+.image-gallery img:hover {
+  transform: scale(1.05);
+}
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  padding-top: 60px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.9);
+}
+.modal-content {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+  max-height: 80vh;
+  border-radius: 10px;
+}
+.modal-close {
+  position: absolute;
+  top: 20px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.modal-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 50px;
+  color: white;
+  cursor: pointer;
+  user-select: none;
+  z-index: 10000;
+  padding: 10px;
+}
+.modal-arrow.left { left: 10px; }
+.modal-arrow.right { right: 10px; }
+@media (max-width: 768px) {
+  .modal-arrow {
+    font-size: 36px;
+  }
+}
+
+.modal-content {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+  max-height: 80vh;
+  border-radius: 10px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.modal-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 50px;
+  color: white;
+  cursor: pointer;
+  user-select: none;
+  z-index: 10000;
+  padding: 10px;
+}
+.modal-arrow.left { left: 10px; }
+.modal-arrow.right { right: 10px; }
+@media (max-width: 768px) {
+  .modal-arrow { display: none; }
+}
+.image-gallery {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 40px auto;
+  max-width: 880px;
+}
+</style>
+</head>
+<body>
+  <header>
+    <button class="hamburger" onclick="toggleMenu()">☰</button>
+    <div class="logo">
+      <img alt="Owlphium Lorebook" src="bannerdocs.png" />
+    </div>
+  </header>
+
+  <div class="mobile-menu" id="mobileMenu">
+    <a href="#" onclick="goToSection('intro'); toggleMenu(); return false;">Intro</a>
+    <a href="#" onclick="goToSection('origins'); toggleMenu(); return false;">The Origins</a>
+    <a href="#" onclick="goToSection('war'); toggleMenu(); return false;">The Great War</a>
+    <a href="#" onclick="goToSection('glossary'); toggleMenu(); return false;">Glossary</a>
+  </div>
+
+  <nav class="sidebar">
+    <h2>📖 Lorebook</h2>
+    <a href="#" onclick="goToSection('intro')">Intro</a>
+    <a href="#" onclick="goToSection('origins')">The Origins</a>
+    <a href="#" onclick="goToSection('war')">The Great War</a>
+    <a href="#" onclick="goToSection('glossary')">Glossary</a>
+  </nav>
+
+  <main class="content">
+    <section class="doc-section" id="intro">
+      <h1>🌍 Introduction: The World of Noctavium</h1>
+      <div style="text-align: center; margin: 20px 0;">
+        <img src="noctavium.png" alt="Planet Noctavium" style="width: 80%; max-width: 600px; height: auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
+      </div>      
+      <p>Orbiting as the third planet in the <strong>GX Andromedae</strong> binary star system, just 10 light-years from Earth, lies <strong>Noctavium</strong> — a world rich in intelligence, history, beauty, and transformation.</p>
+      <p>Noctavium is the only known life-bearing planet in its solar system. With a stable atmosphere, vast oceans, and a moon similar in size to Earth’s, its surface is divided into <strong>four major continents</strong>: <strong>Aetherya</strong>, <strong>Khorvaxis</strong>, <strong>Nymbrosa</strong>, and <strong>Gallarune</strong>. Its seas are ruled by two immense bodies of water: the <strong>Tenebris Ocean</strong> and the <strong>Solyssar Ocean</strong>, while its icy extremes are marked by the <strong>Borealis Glacier</strong> in the north and the <strong>Surya Crest</strong> in the south.</p>
+      <p>With a population of approximately <strong>9.5 billion Noctavians</strong>, the planet has achieved a remarkable balance between advanced technology and ecological harmony. Its civilizations have colonized nearby rocky planets, constructed orbital space stations, and extended their reach to neighboring star systems — establishing contact with multiple intelligent species.</p>
+      <p>Today, Noctavium stands as a living example of decentralized cooperation, interstellar diplomacy, and sustainable progress. But this harmony came at a cost. Its past is riddled with tension, division, and historical conflicts that nearly tore the world apart.</p>
+      <p>This <strong>Lorebook</strong> does more than chronicle Noctavium's history. It serves as a mirror for humanity — a reflection of what we are, and what we could become. A warning, yes, but also a promise:</p>
+      <blockquote style="border-left: 4px solid #3b82f6; padding-left: 12px; color: #93c5fd; font-style: italic; margin-top: 1rem;">
+        The wonders that blockchain can bring to humanity are within reach, if we learn to use them with wisdom, unity, and purpose.
+      </blockquote>
+      <div class="nav-btns">
+        <button onclick="goToNext()">Next: 🕊️ The Origins →</button>
+      </div>
+    </section>
+
+    <section class="doc-section" id="origins" style="display: none;">
+      <h1>🕊️ The Origins</h1>
+      <div style="text-align: center; margin: 30px 0;">
+        <img src="meeting.png" alt="Owlphium meets Cluckmaster" style="width: 90%; max-width: 600px; height: auto; border-radius: 10px; box-shadow: 0 0 12px rgba(0,0,0,0.4);" />
+      </div>
+      <p>Long before orbital cities and blockchain diplomacy, Noctavium was a wild, untamed world of elemental fury and primal instinct. From this crucible emerged two dominant species — the <strong>Owlen</strong> and the <strong>Gallavians</strong>, known to humans as the owls and chickens. Though vastly different in form and behavior, both evolved from ancient aerial ancestors that once shared the skies of Aetherya and Gallarune.</p>
+      <p>The <strong>Owlen</strong>, born in the towering canopies of Aetherya, developed high intelligence, silent flight, and a deep spiritual connection with the sentient trees. Guided by wisdom and ritual, they built floating sanctuaries and developed early forms of decentralized council rule. Their civilization valued observation, introspection, and harmonious living — with the stars as both their calendar and their compass.</p>
+      <p>The <strong>Gallavians</strong>, in contrast, rose from the volcanic forges and rocky valleys of Gallarune. Fiercely adaptive, they were relentless builders and tinkerers. Through fire, pressure, and experimentation, they birthed early machines, forged cities from metal and stone, and prioritized collective efficiency over tradition. For them, survival was progress, and progress meant control over nature.</p>
+      <p>Despite their differences, the two species remained unaware of each other for millennia, separated by vast oceans and evolutionary paths. But as their civilizations grew and their curiosity turned outward, exploration ships began to cross the oceans — and eventually, paths. The first encounters were filled with awe... then suspicion... and ultimately, competition.</p>
+      <p>What began as cultural exchange slowly soured into resource disputes, ideological clashes, and mistrust. The world of Noctavium stood at the dawn of a new era — one defined not by evolution, but by choice: coexistence or conquest.</p>
+      <p>These were the seeds of The Great War — the most devastating conflict Noctavium would ever know, shaping its future, its philosophy, and its very soul.</p>
+      
+      <div class="nav-btns">
+        <button onclick="goToPrevious()">← 🌍 Intro</button>
+        <button onclick="goToNext()">Next: ☠️ The Great War →</button>
+      </div>
+    </section>
+
+    
+    <section class="doc-section" id="war" style="display: none;">
+      <h1>☠️ The Great War: The War of All Wars</h1>
+<div style="text-align: center; margin: 30px 0;">
+  <img src="0.png" alt="Owl vs Chicken - The Great War" style="width: 90%; max-width: 600px; height: auto; border-radius: 10px; box-shadow: 0 0 12px rgba(0,0,0,0.4);" />
+</div>
+
+
+      <p>The Great War was the deadliest conflict in Noctavium’s history. It began as tension between two civilizations: the Owlen, who lived in spiritual harmony with nature and believed in decentralized governance, and the Gallavians, who embraced industrial progress and central authority.</p>
+
+      <p>As resources dwindled and diplomatic efforts failed, both sides turned radical. Propaganda fueled hatred, and war erupted. The early stages involved firebombs and missile strikes, followed by chemical and biological weapons that devastated cities and populations. Urban battles in cities like Tareth and Lomnex led to mass casualties and shifting control.</p>
+
+      <p>In the final year, both factions prepared their nuclear arsenal. A failed rebellion attempted to stop the launches—its members were executed alongside their families. On the infamous Day of Scarlet Fury, over 10 nuclear bombs were dropped, killing more than 50 million in a matter of hours. The skies burned red, and civilization collapsed.</p>
+
+      <p>With nothing left to fight for, both sides signed the Ashen Armistice. It wasn’t a victory—just survival. More than 1.3 billion were dead, vast regions were rendered uninhabitable, and Noctavium stood on the edge of extinction.</p>
+
+      <p>But from the ashes, the survivors built something new. They created a decentralized system—early blockchain technology—to rebuild trust, prevent abuse, and guarantee no one could ever again control everything.</p>
+
+      <p>Noctavium learned the hard way that unchecked power leads to ruin. Their story is not fantasy—it’s a reflection of our own path. Blockchain changed their world. It can still change ours.</p>
+
+      
+<div class="image-gallery">
+  <img src="1.png" alt="War Scene 1" onclick="openModal(this)" />
+  <img src="2.png" alt="War Scene 2" onclick="openModal(this)" />
+  <img src="3.png" alt="War Scene 3" onclick="openModal(this)" />
+  <img src="4.png" alt="War Scene 4" onclick="openModal(this)" />
+  <img src="5.png" alt="War Scene 5" onclick="openModal(this)" />
+  <img src="6.png" alt="War Scene 6" onclick="openModal(this)" />
+  <img src="7.png" alt="War Scene 7" onclick="openModal(this)" />
+  <img src="8.png" alt="War Scene 8" onclick="openModal(this)" />
+  <img src="9.png" alt="War Scene 9" onclick="openModal(this)" />
+  <img src="10.png" alt="War Scene 10" onclick="openModal(this)" />
+</div>
+
+
+<div id="modal" class="modal" onclick="closeModal(event)">
+  <span class="modal-close">&times;</span>
+  <span class="modal-arrow left" onclick="prevImage(event)">&#10094;</span>
+  <img id="modal-img" class="modal-content" />
+  <span class="modal-arrow right" onclick="nextImage(event)">&#10095;</span>
+</div>
+
+
+
+      <div class="nav-btns">
+        <button onclick="goToPrevious()">← 🕊️ The Origins</button>
+        <button onclick="goToNext()">Next: 📖 Glossary →</button>
+      </div>
+    </section>
+
+
+<section class="doc-section" id="glossary" style="display: none;">
+      <h1>🌍 Glossary of Noctavium</h1>
+      <h2>Continents</h2>
+      <ul>
+        <li><strong>Aetherya</strong>: Ancestral and spiritual heartland of the owls. Home of the living trees and skybound cities.</li>
+        <li><strong>Khorvaxis</strong>: Mountainous and foggy. Known for its observatories, martial academies, and tradition-bound culture.</li>
+        <li><strong>Nymbrosa</strong>: Volcanic plains and artistic coastlines. Birthplace of decentralized governance.</li>
+        <li><strong>Gallarune</strong>: Solely inhabited by chickens. A hub of industrial innovation and technological progress.</li>
+      </ul>
+
+      <h2>Oceans</h2>
+      <ul>
+        <li><strong>Tenebris Ocean</strong>: Storm-ridden waters between Khorvaxis and Gallarune. Holds ancient submerged ruins and naval war history.</li>
+        <li><strong>Solyssar Ocean</strong>: Warm, vibrant sea between Aetherya and Nymbrosa. A protected ecological gem.</li>
+      </ul>
+
+      <h2>Poles</h2>
+      <ul>
+        <li><strong>Borealis Glacier</strong> (North Pole): Mystical and largely unexplored. Sacred to many owls for its natural formations.</li>
+        <li><strong>Surya Crest</strong> (South Pole): Once a secret military site, now home to joint owl-chicken scientific research bases.</li>
+      </ul>
+
+      <div class="nav-btns">
+        <button onclick="goToPrevious()">← ☠️ The Great War</button>
+        <button onclick="goToSection('intro')">🏠 Home</button>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    function toggleMenu() {
+      const menu = document.getElementById('mobileMenu');
+      menu.style.display = (menu.style.display === 'block') ? 'none' : 'block';
+    }
+
+    let currentSection = 0;
+    const sections = document.querySelectorAll('.doc-section');
+
+    function showSection(index) {
+      sections.forEach((s, i) => {
+        s.style.display = (i === index) ? 'block' : 'none';
+      });
+      currentSection = index;
+    }
+
+    function goToNext() {
+      if (currentSection < sections.length - 1) {
+        showSection(currentSection + 1);
+      }
+    }
+
+    function goToPrevious() {
+      if (currentSection > 0) {
+        showSection(currentSection - 1);
+      }
+    }
+
+    function goToSection(id) {
+      const index = [...sections].findIndex(s => s.id === id);
+      if (index !== -1) {
+        showSection(index);
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      showSection(0);
+    });
+  
+function openModal(img) {
+  const modal = document.getElementById("modal");
+  const modalImg = document.getElementById("modal-img");
+  modal.style.display = "block";
+  modalImg.src = img.src;
+}
+
+function closeModal(event) {
+  const modal = document.getElementById("modal");
+  if (event.target.id === "modal" || event.target.className === "modal-close") {
+    modal.style.display = "none";
+  }
+}
+
+  
+let currentImageIndex = 0;
+const galleryImages = Array.from(document.querySelectorAll('.image-gallery img'));
+
+function openModal(img) {
+  const modal = document.getElementById("modal");
+  const modalImg = document.getElementById("modal-img");
+  currentImageIndex = galleryImages.indexOf(img);
+  modal.style.display = "block";
+  modalImg.src = img.src;
+}
+
+function nextImage(event) {
+  event.stopPropagation();
+  currentImageIndex = (currentImageIndex + 1) % galleryImages.length;
+  document.getElementById("modal-img").src = galleryImages[currentImageIndex].src;
+}
+
+function prevImage(event) {
+  event.stopPropagation();
+  currentImageIndex = (currentImageIndex - 1 + galleryImages.length) % galleryImages.length;
+  document.getElementById("modal-img").src = galleryImages[currentImageIndex].src;
+}
+
+function closeModal(event) {
+  const modal = document.getElementById("modal");
+  if (event.target.id === "modal" || event.target.className.includes("modal-close")) {
+    modal.style.display = "none";
+  }
+}
+
+// Swipe support for mobile
+let startX = 0;
+document.getElementById("modal").addEventListener("touchstart", function(e) {
+  startX = e.changedTouches[0].screenX;
+}, false);
+
+document.getElementById("modal").addEventListener("touchend", function(e) {
+  let endX = e.changedTouches[0].screenX;
+  if (startX - endX > 50) nextImage(e);
+  if (endX - startX > 50) prevImage(e);
+}, false);
+
+</script>
+</body>
+</html>
