@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>Flappy Owlphium | The Game</title>
   <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
   <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet" />
@@ -655,6 +655,23 @@ document.getElementById("viewScoresButton").addEventListener("click", () => {
   scoreList.innerHTML = filtered.map((entry, i) => `<div>${i + 1}. ${entry.name} - ${entry.score} points</div>`).join("");
   document.getElementById("fullHighScoreScreen").style.display = "block";
 });
+
+
+// BLOQUEO TOTAL DE ZOOM EN MOBILE
+document.addEventListener('touchstart', function(e) {
+  if (e.touches.length > 1) {
+    e.preventDefault(); // bloqueo pinch zoom
+  }
+}, { passive: false });
+
+let lastTouchEnd = 0;
+document.addEventListener('touchend', function(e) {
+  const now = new Date().getTime();
+  if (now - lastTouchEnd <= 300) {
+    e.preventDefault(); // bloqueo double tap zoom
+  }
+  lastTouchEnd = now;
+}, false);
 
 </script>
 
